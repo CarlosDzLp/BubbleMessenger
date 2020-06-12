@@ -1,0 +1,14 @@
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/bin/Debug/netstandard2.0/BubblesPage.deps.json
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/bin/Debug/netstandard2.0/BubblesPage.dll
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/bin/Debug/netstandard2.0/ref/BubblesPage.dll
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/bin/Debug/netstandard2.0/BubblesPage.pdb
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/BubblesPage.csprojAssemblyReference.cache
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/BubblesPage.AssemblyInfoInputs.cache
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/BubblesPage.AssemblyInfo.cs
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/BubblesPage.csproj.CoreCompileInputs.cache
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/BubblesPage.dll
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/ref/BubblesPage.dll
+/Users/carlosdiaz/Projects/BubblesPage/BubblesPage/obj/Debug/netstandard2.0/BubblesPage.pdb
